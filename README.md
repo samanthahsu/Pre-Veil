@@ -1,5 +1,5 @@
 # Pre-Veil
-Play as cupid in this 2D puzzle platformer and help the bride-to-be navigate *up* the aisle to her groom.
+Play as cupid in this 2D puzzle platformer and help the bride-to-be navigate *up* the aisle to unite with her groom.
 
 Build created in BC GameJam 2020.
 
